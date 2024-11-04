@@ -144,5 +144,9 @@ Sort the above scores from according to the order of highest CGPA (don’t use A
  Output: m sq ngnr
 
  ### Approach
- Here, for removing vowels from a given string, first I have converted the string to lowercase and then iterating through each character. It uses a “StringBuilder” to build a new string, checking each character to see if it’s a vowel. If the character isn’t a vowel, it’s appended to the StringBuilder. Finally, the result without vowels is printed.
+ Here, for removing vowels from a given string, first I have converted the string to lowercase and then iterating through each character. It uses a “StringBuilder” to build a new string, checking each character 
+ to see if it’s a vowel. If the character isn’t a vowel, it’s appended to the StringBuilder. Finally, the result without vowels is printed.
+
+ ## DOC File Link
+ https://docs.google.com/document/d/1pq9xh3z6pY5e17JsCzhrzxHyvM1DoDjWUehThOAX4Dg/edit?usp=sharing
  
